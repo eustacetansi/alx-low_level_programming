@@ -1,5 +1,4 @@
-#include "main.c"
-#include <stdio.h>
+#include "main.h"
 /**
  * function that checks for upper case
  *

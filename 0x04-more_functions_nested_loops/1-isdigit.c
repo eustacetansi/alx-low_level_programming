@@ -1,3 +1,4 @@
+#include "main.h"
 #include <stdio.h>
 /**
  * function that checks for digit (0 through 9)

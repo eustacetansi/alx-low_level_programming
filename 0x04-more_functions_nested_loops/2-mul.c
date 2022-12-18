@@ -12,8 +12,3 @@ int mul(int a, int b)
 	result = a*b;
 	_putchar("%d", result);
 }
-int main()
-{
-	mul();
-	return (0);
-}

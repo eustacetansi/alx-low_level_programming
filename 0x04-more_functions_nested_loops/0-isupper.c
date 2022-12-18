@@ -12,10 +12,3 @@ int _isupper(char c)
 	else
 		return (0);
 }
-int result;
-int main()
-{
-	result = _isupper(A);
-	_putchar("%d", result);
-	return (0);
-}

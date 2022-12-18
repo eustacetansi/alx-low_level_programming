@@ -12,10 +12,3 @@ int _isdigit(int c)
         else
                 return (0);
 }
-int result;
-int main()
-{
-        result = _isdigit(70);
-        printf("%d", result);
-        return (0);
-}
